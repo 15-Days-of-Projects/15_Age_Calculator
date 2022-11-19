@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shashikant Maurya</h1>
 <h3 align="center">An aspiring frontend developer from Pune, India</h3>
 <img align="right" alt="Coding" width="400" 
-src="https://github.com/30-Days-of-Projects/14_Subscriber_Newsletter/blob/main/Subscribe%20Newsletter.png">
+src="https://github.com/30-Days-of-Projects/15_Age_Calculator/blob/main/Age_Calculator.png">
 
 - 🔭   This is the 15th project from my 30 Days of Project Repository.
 - 🔭   This is an age calculator project
